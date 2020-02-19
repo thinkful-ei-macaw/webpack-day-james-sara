@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-macaw/webpack-day-james-sara/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-james-sara#readme"
+  "homepage": "https://github.com/thinkful-ei-macaw/webpack-day-james-sara#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
